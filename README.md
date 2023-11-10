@@ -14,12 +14,12 @@ Main libraries used:
 
 ## Files description
 
-topic_modelling.ipynb - file with the introduction of new categories from the articles and sentiment difference
-final_plots.ipynb - file with the final plots used in our poster
-final_model.ipynb - file with the final model used, and relevant performance metrics
-articles.ipynb - file with data exploration of articles
-news_sources.ipynb - file with data exploration of publishers
-other_models.ipynb - file with other machine learning models used for exploration
+- topic_modelling.ipynb - file with the introduction of new categories from the articles and sentiment difference
+- final_plots.ipynb - file with the final plots used in our poster
+- final_model.ipynb - file with the final model used, and relevant performance metrics
+- articles.ipynb - file with data exploration of articles
+- news_sources.ipynb - file with data exploration of publishers
+- other_models.ipynb - file with other machine learning models used for exploration
 
 ## How to run code
 
